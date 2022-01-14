@@ -1,0 +1,35 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Ph.D in Economics
+  icon: fa-microscope
+  timeframe: 2012-2017
+  institution:
+    name: University of Wisconsin - Madison
+    url: "www.wisc.edu"
+- name: M.S. in Economics
+  icon: fa-graduation-cap
+  timeframe: 2012-2014
+  institution:
+    name: University of Wisconsin - Madison
+    url: "www.wisc.edu"
+- name: B.A. in Economics with Honours
+  icon: fa-university
+  timeframe: 2009-2012
+  institution:
+    name: University of British Columbia
+    url: "www.ubc.ca"
+- name: Singapore-Cambridge A-Level
+  icon: fa-school
+  timeframe: 2005-2008
+  institution:
+    name: Victoria Junior College

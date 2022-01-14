@@ -1,0 +1,19 @@
+# some information about you
+name: "Josephine Xu"
+nickname: "Josie"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: 
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "xu.duo.josephine@gmail.com"
+  phone: "+0123456789"
+
+# some summary about what you do
+summary:
+  - I am a economist
+  - I am a consultant
+  - I am a mom
+  - I love cats
+  - I work on merger and acquisitions
+  - I love to answer economic questions with data

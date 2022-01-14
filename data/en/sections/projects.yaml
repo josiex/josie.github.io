@@ -1,0 +1,36 @@
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Economics
+  filter: "professional"
+- name: Data Science
+  filter: "data"
+- name: Hobby
+  filter: "hobby"
+
+# your projects
+projects:
+- name: Dynamic Discrete Choice Model
+  repo: 
+  summary: Replication of Rust
+  tags: ["professional"]
+
+- name: Analyze Netflix Data
+  repo: 
+  summary: Some data stuff
+  tags: ["data", "hobby"]
+
+- name: Shortest Path
+  repo: 
+  summary: Algorithm for shortest path
+  tags: ["hobby"]
